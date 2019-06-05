@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GreateCommonFactor.iml" filepath="$PROJECT_DIR$/GreateCommonFactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tin.iml" filepath="$PROJECT_DIR$/tin.iml" />
     </modules>
   </component>
 </project>
