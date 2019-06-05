@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96b09d44-481e-42e4-8dde-8dfb72c52668" name="Default Changelist" comment="" />
+    <list default="true" id="21919338-e1e0-419d-af58-01605226b797" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AddArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DaoPhanTuMang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DaoPhanTuMang/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ReverseArray.java">
+        <entry file="file://$PROJECT_DIR$/src/AddArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
+            <state relative-caret-position="136">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -39,7 +42,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ReverseArray.java" />
+        <option value="$PROJECT_DIR$/src/AddArray.java" />
       </list>
     </option>
   </component>
@@ -66,12 +69,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="DaoPhanTuMang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DaoPhanTuMang" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemPtuMang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemPtuMang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DaoPhanTuMang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DaoPhanTuMang" type="462c0819:PsiDirectoryNode" />
+              <item name="ThemPtuMang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThemPtuMang" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -83,7 +86,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -102,16 +104,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
-      <module name="DaoPhanTuMang" />
+    <configuration name="AddArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddArray" />
+      <module name="ThemPtuMang" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.AddArray" />
       </list>
     </recent_temporary>
   </component>
@@ -120,29 +122,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96b09d44-481e-42e4-8dde-8dfb72c52668" name="Default Changelist" comment="" />
-      <created>1559722973052</created>
+      <changelist id="21919338-e1e0-419d-af58-01605226b797" name="Default Changelist" comment="" />
+      <created>1559728078748</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559722973052</updated>
-      <workItem from="1559722975823" duration="1406000" />
+      <updated>1559728078748</updated>
+      <workItem from="1559728081727" duration="180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1406000" />
+    <option name="totallyTimeSpent" value="180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -150,7 +152,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -170,10 +172,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ReverseArray.java">
+    <entry file="file://$PROJECT_DIR$/src/AddArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="61" selection-start-line="35" selection-start-column="61" selection-end-line="35" selection-end-column="61" />
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
