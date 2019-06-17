@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TachBien/TachBien.iml" filepath="$PROJECT_DIR$/TachBien/TachBien.iml" />
       <module fileurl="file://$PROJECT_DIR$/session7.iml" filepath="$PROJECT_DIR$/session7.iml" />
     </modules>
   </component>
